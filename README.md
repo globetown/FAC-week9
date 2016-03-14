@@ -26,7 +26,7 @@ You can take these in any order, depending on what you decide to concentrate on.
 - user should be able to reset their password if they forget it
 - user should be able to login with facebook or google
 - a registered user should be able to create an item to sell and put a price against it
-- user should be able to buy an item and pay for it
+- user should be able to buy an item
 
 ### Resources
 - [awesome react](https://github.com/enaqx/awesome-react) long list of good resources
