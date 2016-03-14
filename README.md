@@ -1,25 +1,30 @@
-# FAC week 9: Building Amazon
+@nikhilaravi thanks for your feedback.
 
-Monday: Kick off with [Jame's](https://github.com/foundersandcoders/begin_react_workshop) workshop on React.
+## Monday
 
-Tuesday is README day, with a twist. We are going to ask students to produce short video tutorials on some element of React. One of:
-  - JSX
-  - State and props
-  - Component lifecycle
-  - Animations
-  - Get up and running in React
-  - Tutorial in the React Docs
-  - ...
+10:00 - 10:30 Introducing React
+- What it is?
+- Who created it?
+- When was created?
+- Why would you want to use it?
+- Explain briefly the architecture choice and jsx.
+- Set learning objectives
 
-The project for the week will be to build Amazon. This is a fairly open ended and potentially endless challenge but, to help, we are going to break it down into a few features that we definitely want to see and a few that can be added as stretch goals.
+10:30 - 13:00 Heads down on some code
+- Build the first combo `div-h1` component
+- Some more explanation of jsx
+- Add some `className` css
+- Pass data inside the component and render them
+- Create two components and render them
+- Pass some more data to the whole app, loops to render lists
+- Delete one element of the list, add one
+- Explain `state`, `props` and how to interact with them
 
-- A user should be able to register an account
-- A user should be able to login
-- A user should be able to logout
-- A user should see an item that is available to buy
-- A user should be able to buy an item
+13:00 - 14:00 Lunch break
 
-Stretch goals!
-
-- A user should be able to leave a review on an item
-- A user should be able submit an item to the store
+14:00 - 18:00 Set up webpack 
+- Introduce webpack by solving common problems
+- What if we have hundreds of component? `CommonJS`
+- What happens if we want to use some babel?
+- What happens if we get board of compiling every time a change has been made?
+- Create multiple components and perform some AJAX calls
