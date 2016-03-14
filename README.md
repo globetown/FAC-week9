@@ -1,5 +1,3 @@
-@nikhilaravi thanks for your feedback.
-
 ## Monday
 
 10:00 - 10:30 Introducing React
